@@ -1,5 +1,9 @@
 cd C:\Users\zihao\github\force-chart
 
+## change drive in cmd
+D:
+cd D:\test\github
+
 python -m http.server
 
 
@@ -12,7 +16,8 @@ If you have Python installed...
 
 1.Change directory into the folder where your file some.html or file(s) exist using the command cd /path/to/your/folder
 
-2.Start up a Python web server using the command python -m SimpleHTTPServer2.
+2.Start up a Python web server using the command 
+python -m SimpleHTTPServer 8000
 
 This will start a web server that hosts your entire directory listing, 
 which will be made accessible through the following URL: http://localhost:8000
