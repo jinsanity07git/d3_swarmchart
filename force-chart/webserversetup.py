@@ -1,5 +1,4 @@
-cd C:\Users\zihao\github\force-chart
-
+cd C:\Users\zihao\github\d3_swarmchart
 ## change drive in cmd
 D:
 cd D:\test\github
